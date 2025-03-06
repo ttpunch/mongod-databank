@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# MongoDB Excel Data API
+# MongoDB Excel Data API (mongod-databank)
 
 A MongoDB-based system for handling Excel-like data with a RESTful API.
 
@@ -77,6 +76,3 @@ curl -X POST http://localhost:3000/api/data/sheets/[sheet-id]/rows \
 ## License
 
 ISC
-=======
-# mongod-databank
->>>>>>> 807a96a214a24de00b043cc5b649cd64e8074002
